@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lohxu
+ *
+ */
+module test {
+}
